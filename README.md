@@ -1,5 +1,4 @@
 # Track_Invoice_Blockchain
-rackomatron
 
 Track invoices on the blockchain!
 
